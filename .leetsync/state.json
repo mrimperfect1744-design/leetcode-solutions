@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "updatedAt": 1789018506938,
+  "devices": {
+    "9bbbe993-c355-44d6-b288-ceba4ed3ad39": {
+      "lastSeen": 1789018506367
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  }
+}
